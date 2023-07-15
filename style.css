@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    font-size: 60px;
+    background-color: #0a090cff;
+    color: #f0edeeff;
+    padding: 16px;
+}
+
+/* --night: #0a090cff;
+--antiflash-white: #f0edeeff;
+--midnight-green: #07393cff;
+--caribbean-current: #2c666eff;
+--non-photo-blue: #90ddf0ff; */
